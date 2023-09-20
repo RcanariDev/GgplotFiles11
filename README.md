@@ -8,7 +8,7 @@ Ejemplos de histograma
 - Ejemplo en ggplot
 
 ```{r}
-foo()
+geom_histogram()
 ```
 
 ## Columm chart
