@@ -1,6 +1,6 @@
 # Ejemplos de Ggplot
 
-## Histogram
+## Histogram (Univariado Numérica)
 Ejemplos de histograma
 
 - Tipo de data
